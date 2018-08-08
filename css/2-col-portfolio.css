@@ -9,11 +9,11 @@ body {
   background-image: url("/images/marble.jpg");
 }
 
-.navbar-brand{
+/* .navbar-brand{
   color: teal !important;
-}
+} */
 .about{
-  color: teal;
+  color: black;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-weight: bolder;
   text-align: center;
@@ -32,4 +32,9 @@ body {
 
 .pagination {
   margin-bottom: 30px;
+}
+
+.profile{
+  position: left;
+  border-radius: 5%;
 }
